@@ -1,2 +1,2 @@
-# Adidas-sales-Analysis Excle end to end project
+# Adidas-sales-Analysis 
 Tis is a Adidas sales dashboard
